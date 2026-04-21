@@ -1,7 +1,7 @@
 # 🏫 School Attendance System
 ### QR Code + Excel Export | MERN Stack
 
----
+--- School Attendance System Live demo : https://student-attendance-system01.netlify.app/teacher
 
 ## ✨ Features
 
