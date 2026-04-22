@@ -146,4 +146,4 @@ school-attendance/
 
 ---
 
-Made with ❤️ | MERN Stack | QR Attendance System
+Made with ❤️ | MERN Stack | QR Attendance System | paw123@34*fsdf#
