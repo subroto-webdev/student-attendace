@@ -146,4 +146,4 @@ school-attendance/
 
 ---
 
-Made with ❤️ | MERN Stack | QR Attendance System |MY_TEACHER_2026_KEY_ABC
+Made with ❤️ | MERN Stack | QR Attendance System |your_secret_key_here
