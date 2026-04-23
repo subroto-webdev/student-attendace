@@ -1,7 +1,7 @@
 # 🏫 School Attendance System
 ### QR Code + Excel Export | MERN Stack
 
---- School Attendance System Live demo :(https://student-attendance-system10.netlify.app/)
+--- School Attendance System Live demo :https://student-attendance-system10.netlify.app/)](https://student-attendance2026.netlify.app/
 
 ## ✨ Features
 
@@ -146,4 +146,5 @@ school-attendance/
 
 ---
 
-Made with ❤️ | MERN Stack | QR Attendance System |your_secret_key_here
+Made with ❤️ | MERN Stack | QR Attendance System |MY_TEACHER_2026_KEY_ABC
+
