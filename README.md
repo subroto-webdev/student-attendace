@@ -16,55 +16,6 @@
 
 ---
 
-## 🚀 Installation (Step by Step)
-
-### Step 1 — Clone করুন
-\`\`\`bash
-git clone <your-repo-url>
-cd school-attendance
-\`\`\`
-
-### Step 2 — Backend Setup
-\`\`\`bash
-cd backend
-npm install
-\`\`\`
-
-`.env` file তৈরি করুন:
-\`\`\`env
-MONGO_URI=mongodb://127.0.0.1:27017/school_attendance
-JWT_SECRET=school_attendance_secret_key_2024
-PORT=5000
-\`\`\`
-
-Backend চালু করুন:
-\`\`\`bash
-npm start
-\`\`\`
-
-### Step 3 — Frontend Setup
-\`\`\`bash
-cd ../frontend
-npm install
-\`\`\`
-
-`.env` file তৈরি করুন:
-\`\`\`env
-REACT_APP_API_URL=http://localhost:5000/api
-\`\`\`
-
-Frontend চালু করুন:
-\`\`\`bash
-npm start
-\`\`\`
-
-### Step 4 — Browser এ দেখুন
-\`\`\`
-http://localhost:3000
-\`\`\`
-
----
-
 ## 📖 কীভাবে ব্যবহার করবেন
 
 ### 👨‍🎓 Student
